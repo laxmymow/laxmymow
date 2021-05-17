@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @laxmymow
-- 👀 I’m interested in computers
-- 🌱 I’m currently learning programming
+- 👀 I’m interested in Software engineering 
 - 💞️ I’m looking to collaborate on everything, I'm looking for expirence and have no problem working for free
 - 📫 How to reach me ...
 
